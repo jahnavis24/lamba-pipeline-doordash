@@ -12,7 +12,7 @@ Process raw delivery JSON files, filter for records where `status = "delivered"`
 
 ## 🖼️ Architecture
 
-![Architecture](Screen%20Recording%202025-07-20%20at%203.08.18%E2%80%AFPM.gif)
+![Architecture](arch.gif)
 
 ---
 
